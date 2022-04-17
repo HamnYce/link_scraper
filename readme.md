@@ -12,7 +12,7 @@
   sample file containing urls from demersdesigns (link at the top).
 ### -parse_links
   sample output containing results of running the script on urls.txt.
-### lib/link_scraper.rb
+### -lib/link_scraper.rb
   source code containing the link scraping program.
 
 hope you guys like the program.
