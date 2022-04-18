@@ -4,6 +4,8 @@
 ## Dependencies
   1. nokogiri
   2. open-uri
+  - to install dependancies: install ruby first, then type:
+  - gem install nokogiri open-uri
 
 ## Files present
 ### -readme
